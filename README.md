@@ -2,7 +2,7 @@
 
 # Phone Inheritance Example with Nested Classes and Anonymous Class
 
-This program is to demostrate my knwolegde of **nested classes**, **method overriding**, and **anonymous classes**. The example models different types of phones (`Samsong` and `Tecno`) as subclasses of a base class `Phone`. Additionally, it shows how to use an **anonymous class** to override the `toString()` method for a one-off object.
+This program is to demostrate my knwolegde of **nested classes**, **access modifier**, and **anonymous classes**. The example models different types of phones (`Samsong` and `Tecno`) as subclasses of a base class `Phone`. Additionally, it shows how to use an **anonymous class** to override the `toString()` method for a one-off object.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
