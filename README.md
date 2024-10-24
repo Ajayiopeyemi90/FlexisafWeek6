@@ -19,7 +19,6 @@ This program is to demostrate my knwolegde of **nested classes**, **method overr
   - [3. Anonymous Class](#3-anonymous-class)
   - [4. Overriding Methods](#4-overriding-methods)
   - [5. Access Modifiers](#5-access-modifiers)
-- [Future Enhancements](#future-enhancements)
 
 ## Project Structure
 The program is contained within a single file, `phoneNestedClass.java`, which consists of:
