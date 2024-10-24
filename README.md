@@ -1,9 +1,5 @@
 # FlexisafWeek6
 
-Here's a comprehensive `README.md` for the Java program, explaining the key features and concepts demonstrated in the code:
-
----
-
 # Phone Inheritance Example with Nested Classes and Anonymous Class
 
 This program is to demostrate my knwolegde of **nested classes**, **method overriding**, and **anonymous classes**. The example models different types of phones (`Samsong` and `Tecno`) as subclasses of a base class `Phone`. Additionally, it shows how to use an **anonymous class** to override the `toString()` method for a one-off object.
